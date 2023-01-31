@@ -1,0 +1,11 @@
+C:\Users\jhper\source\repos\Distancia en plano\Distancia en plano\bin\Debug\Distancia en plano.exe.config
+C:\Users\jhper\source\repos\Distancia en plano\Distancia en plano\bin\Debug\Distancia en plano.exe
+C:\Users\jhper\source\repos\Distancia en plano\Distancia en plano\bin\Debug\Distancia en plano.pdb
+C:\Users\jhper\source\repos\Distancia en plano\Distancia en plano\obj\Debug\Distancia en plano.csproj.AssemblyReference.cache
+C:\Users\jhper\source\repos\Distancia en plano\Distancia en plano\obj\Debug\Distancia en plano.csproj.SuggestedBindingRedirects.cache
+C:\Users\jhper\source\repos\Distancia en plano\Distancia en plano\obj\Debug\Distancia_en_plano.Form1.resources
+C:\Users\jhper\source\repos\Distancia en plano\Distancia en plano\obj\Debug\Distancia_en_plano.Properties.Resources.resources
+C:\Users\jhper\source\repos\Distancia en plano\Distancia en plano\obj\Debug\Distancia en plano.csproj.GenerateResource.cache
+C:\Users\jhper\source\repos\Distancia en plano\Distancia en plano\obj\Debug\Distancia en plano.csproj.CoreCompileInputs.cache
+C:\Users\jhper\source\repos\Distancia en plano\Distancia en plano\obj\Debug\Distancia en plano.exe
+C:\Users\jhper\source\repos\Distancia en plano\Distancia en plano\obj\Debug\Distancia en plano.pdb
